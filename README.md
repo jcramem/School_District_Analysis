@@ -15,3 +15,5 @@ Removing the reading and math test scores for ninth graders at Thomas High Schoo
 
 * District wide, 
 
+![District_Summary](District_Summary.png).
+
