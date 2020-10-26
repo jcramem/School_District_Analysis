@@ -8,3 +8,10 @@ The goal of this project is to revisit the district's analysis of test scores af
 
 * Data Sources: schools_complete.csv, students_complete.csv
 * Software: Python 3.7.6; Jupyter Notebook 6.0.3
+
+## Results 
+
+Removing the reading and math test scores for ninth graders at Thomas High School resulted in the following: 
+
+* District wide, 
+
