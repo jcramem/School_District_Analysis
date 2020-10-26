@@ -17,5 +17,7 @@ Removing the reading and math test scores for ninth graders at Thomas High Schoo
 
 ![District_Summary](District_Summary.png).
 
-* At the school level, on results for Thomas High School changed. Specifically, the average math score remained the same, the average reading score increased very slightly, and the percentage passing each teat decreased slightly.   
+* At the school level, only results for Thomas High School changed. Specifically, the average math score dropped slightly, the average reading score increased slightly, and the percentage passing for each test decreased slightly.    
+
+![Thomas Summary](Thomas_Summary.png).
 
