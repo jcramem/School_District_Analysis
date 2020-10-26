@@ -27,10 +27,10 @@ Removing the reading and math test scores for ninth graders at Thomas High Schoo
 
 ![Top_Performers](Top_Performers.png).
 
-* Finally, breaking down the district results to reflect different per-capita-spending, school size, and school type revealed very little change after the Thomas High School ninth graders were removed. To minimize potential confusion, below are the results only after the student removal. Still, because the overall percentage passing dropped at Thomas High School once these students were removed, further scrutiny may be needed unless there is a defensible reason that ninth graders at that school would perform better then their upper class peers.   
+* Finally, breaking down the district results to reflect different per-capita-spending, school size, and school type revealed very little change after the Thomas High School ninth graders were removed. To minimize potential confusion, below are the results only after the student removal. 
 
 ![Group_Summaries](Group_Summaries.png).
 
 ## Summary 
 
-In sum, because of its relatively small size removing the questioned test results for ninth graders at Thomas High School had little effect on district-wide performance. Ninth grade math and reading scores across the district dropped by .2 percentage points or less. Thomas High School remained among the best performing schools, although that may come into question if the same anomalies are detected in the upper grade levels.  
+In sum, because of its relatively small size removing the questioned test results for ninth graders at Thomas High School had little effect on district-wide performance. Ninth grade math and reading scores across the district dropped by .2 percentage points or less. Thomas High School remained among the best performing schools, although that may come into question if the same anomalies are detected in the upper grade levels. Still, because the overall percentage passing dropped at Thomas High School once these students were removed, further scrutiny may be needed unless there is a defensible reason that ninth graders at that school would perform better then their upper class peers.    
