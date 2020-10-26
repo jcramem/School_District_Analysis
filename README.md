@@ -11,7 +11,8 @@ The goal of this project is to revisit the district's analysis of test scores af
 
 ## Results 
 
-Removing the reading and math test scores for ninth graders at Thomas High School resulted in the following: 
+Removing the reading and math test scores for ninth graders at Thomas High School resulted in the following conclusions. Note when appropriate the top portion of each of the images below reflects the results with ninth grade Thomas High School students removed.  
 
-* District wide, 
+* District wide, the average math score drooped slightly while the average reading score remained the same. However, the percentage of students passing the math and reading tests dropped, suggesting Thomas High School students pass the tests at a higher rate than students at other high schools.
+
 ![District_Summary](District_Summary.png).
