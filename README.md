@@ -6,5 +6,5 @@ The goal of this project is to revisit the district's analysis of test scores af
 
 ## Resources
 
-* Data Sources: election_results.csv
-* Software: Python 3.7.6; Visual Studio Code 1.50.1
+* Data Sources: schools_complete.csv, students_complete.csv
+* Software: Python 3.7.6; Jupyter Notebook 6.0.3
