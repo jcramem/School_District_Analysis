@@ -14,6 +14,3 @@ The goal of this project is to revisit the district's analysis of test scores af
 Removing the reading and math test scores for ninth graders at Thomas High School resulted in the following: 
 
 * District wide, 
-
-![District_Summary](District_Summary.png).
-
