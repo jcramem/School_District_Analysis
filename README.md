@@ -27,7 +27,7 @@ Removing the reading and math test scores for ninth graders at Thomas High Schoo
 
 ![Top_Performers](Top_Performers.png).
 
-* Finally, breaking down the district results to reflect different per-capita-spending, school size, and school type revealed very little change after the Thomas High School ninth graders were removed. To minimize potential confusion, below are the results only after the student removal. 
+* Finally, breaking down the district results to reflect different per-capita-spending, school size, and school type revealed very little change after the Thomas High School ninth graders were removed. To minimize potential confusion, below are the results only after the student removal. Still, because the overall percentage passing dropped at Thomas High School once these students were removed, further scrutiny may be needed unless there is a defensible reason that ninth graders at that school would perform better then their upper class peers.   
 
 ![Group_Summaries](Group_Summaries.png).
 
