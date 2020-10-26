@@ -16,3 +16,6 @@ Removing the reading and math test scores for ninth graders at Thomas High Schoo
 * District wide, the average math score drooped slightly while the average reading score remained the same. However, the percentage of students passing the math and reading tests dropped, suggesting Thomas High School students pass the tests at a higher rate than students at other high schools.
 
 ![District_Summary](District_Summary.png).
+
+* At the school level, on results for Thomas High School changed. Specifically, the average math score remained the same, the average reading score increased very slightly, and the percentage passing each teat decreased slightly.   
+
